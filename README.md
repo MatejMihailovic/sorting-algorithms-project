@@ -19,7 +19,7 @@ This program serves as a demonstration of sorting algorithms applied to differen
 ## Setup
 1. Clone the repository:
 ```
-git clone https://github.com/username/sorting-algorithms-project.git
+git clone https://github.com/MatejMihailovic/sorting-algorithms-project.git
 ```
 2. Compile the source files using a C compiler like GCC:
 ```
